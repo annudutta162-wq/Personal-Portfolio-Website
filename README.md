@@ -16,7 +16,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 - Contact Section
 
 ## Live Demo
-(https://annudutta162-wq.github.io/Personal-Portfolio-Website/)
+https://annudutta162-wq.github.io/Personal-Portfolio-Website/
 
 ## Author
 Anita
